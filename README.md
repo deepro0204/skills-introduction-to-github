@@ -1,37 +1,29 @@
-<div align="center">
+## Review
 
-# 🎉 Congratulations deepro0204! 🎉
+_Congratulations, you've completed this Exercise and joined the world of developers!_
 
-<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
+<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
-### 🌟 You've successfully completed the exercise! 🌟
+Here's a recap of your accomplishments:
 
-## 🚀 Share Your Success!
+- You learned about GitHub, repositories, branches, commits, and pull requests.
+- You created a branch, a commit, and a pull request.
+- You merged a pull request.
+- You made your first contribution! :tada:
 
-**Show off your new skills and inspire others!**
+### What's next?
 
-<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fdeepro0204%2Fskills-introduction-to-github%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
-</a>
-<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fdeepro0204%2Fskills-introduction-to-github%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
-</a>
-<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fdeepro0204%2Fskills-introduction-to-github%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
-</a>
+If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
 
-### 🎯 What's Next?
+1. Make a new public repository with a name that matches your GitHub username.
+2. Create a file named `README.md` in its root. The "root" means not inside any folder in your repository.
+3. Edit the contents of the `README.md` file.
+4. If you created a new branch for your file, open and merge a pull request on your branch.
+5. Lastly, we'd love to hear what you thought of this exercise [in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github).
 
-**Keep the momentum going!**
+Check out these resources to learn more or get involved:
 
-[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/deepro0204/skills-introduction-to-github/issues/1)
-[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills))
-
-*There's no better way to learn than building things!* 🚀
-
-</div>
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
+- [Take another GitHub Skills exercise](https://learn.github.com/skills).
+- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
